@@ -26,6 +26,7 @@ public class Sample003 {
 		// 정수와 실수의 연산은 실수로 묵시적 형변환
 		// +, -, *, /
 		System.out.println(100 / (double)3);
+		
 
 	}
 
